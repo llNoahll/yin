@@ -1,4 +1,4 @@
-# The Yin Programming Language
+# Yin语言
 
 #### Discussion Forum
 
